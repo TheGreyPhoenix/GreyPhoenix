@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tsnyd/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tsnyd/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tsnyd/Documents/Unreal Projects/MyProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/tsnyd/Documents/Unreal Projects/MyProject/Content/ThirdPerson/CrouchAnimations/Crouch.uasset",
+				"C:/Users/tsnyd/Documents/Unreal Projects/MyProject/Content/ThirdPerson/CrouchAnimations/CrouchWalk.uasset"
+			]
+		}
+	]
+}
